@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/47/src/algorithms
+END
+forest.r
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/52/src/algorithms/forest.r
+END
+knnFromR.r
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/52/src/algorithms/knnFromR.r
+END
+tree.r
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/52/src/algorithms/tree.r
+END
+bayesFromR.r
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/52/src/algorithms/bayesFromR.r
+END
+bayes.r
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/51/src/algorithms/bayes.r
+END
+tfidf.r
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/51/src/algorithms/tfidf.r
+END
+knn.r
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/52/src/algorithms/knn.r
+END
